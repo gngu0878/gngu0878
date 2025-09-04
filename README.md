@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/gngu0878">
+    <img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Gia+Hung+Nguyen;Business+Analyst+%7C+Data+Analyst" alt="Typing SVG" />
+  </a>
+  
+  <br/>
 
-<!--
-**gngu0878/gngu0878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="www.linkedin.com/in/hung-nguyen77">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:hungnguyenwork0707@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
